@@ -1,0 +1,39 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for dialog manager example
+ */
+
+grammar books;
+
+public <books> =
+		apple |
+		baby |
+		cat |
+		dog |
+		expire |
+		fish |
+		grape |
+		hazard |
+		ice cream |
+		jar |
+		kite |
+		lion |
+		monkey |
+		number |
+		orange |
+		peacock |
+		queen |
+		radiation |
+		safety |
+		take off |
+		umbrella |
+		violin |
+		watch |
+		x box |
+		yawn |
+		zebra |
+		
+		back space |
+		
+		terminate application;

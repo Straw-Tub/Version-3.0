@@ -1,0 +1,22 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for dialog manager example
+ */
+
+grammar bankbazaar;
+
+public <bankbazaar> =	
+			
+		mouse scroll upward |
+		mouse scroll down |
+		
+		go to home page |
+		
+		savings account |
+			
+			apply savings account online |
+			
+		fixed deposit |
+		
+		please terminate application;
